@@ -1,0 +1,7 @@
+{
+    "repositories": {
+        "local": {
+            "path": "resources/local-repository"
+        }
+    } 
+}
